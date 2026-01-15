@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Basis Theory - Built to keep customers transacting',
-  description: 'More than a token vault—Basis Theory routes, tokenizes, and optimizes your payments to drive conversion, resilience, and retention.',
+  title: 'DreamLaunch AI',
+  description: 'We Build AI Agents That Enterprises Can Actually Deploy',
   openGraph: {
     title: 'dreamlaunch AI',
   },
