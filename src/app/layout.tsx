@@ -2,9 +2,11 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'DreamLaunch AI - We Build AI Agents That Enterprises Can Actually Deploy
-',
-  description: 'Launch intelligent co-pilots that streamline operations across manufacturing, finance, and logistics — without compromising compliance or transparency.',
+  title: 'Basis Theory - Built to keep customers transacting',
+  description: 'More than a token vault—Basis Theory routes, tokenizes, and optimizes your payments to drive conversion, resilience, and retention.',
+  openGraph: {
+    title: 'dreamlaunch AI',
+  },
 };
 
 export default function RootLayout({
